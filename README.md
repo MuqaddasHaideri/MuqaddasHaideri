@@ -2,9 +2,9 @@
 
 ## 👋 Hi, I'm a Computer Science Student & Aspiring Full-Stack Developer
 
-I’m passionate about building seamless and scalable web and mobile applications.  
-I enjoy working with **React, Node.js, and modern technologies** to turn ideas into real-world solutions.
-I love solving problems, learning new technologies, and creating user-friendly digital experiences.
+* I’m passionate about building seamless and scalable web and mobile applications.  
+* I enjoy working with **React, Node.js, and modern technologies** to turn ideas into real-world solutions.
+* I love solving problems, learning new technologies, and creating user-friendly digital experiences.
 --
 
 ### 🛠️ Technical Skills
