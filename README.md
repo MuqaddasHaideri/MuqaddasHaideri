@@ -1,13 +1,13 @@
 # Hi there, I'm Muqaddas! 👋
 
-## 👋 Hi, I'm a Computer Science Student & Aspiring Full-Stack Developer
+##  Hi, I'm a Computer Science Student & Aspiring Full-Stack Developer
 
 * I’m passionate about building seamless and scalable web and mobile applications.  
 * I enjoy working with **React, Node.js, and modern technologies** to turn ideas into real-world solutions.
 * I love solving problems, learning new technologies, and creating user-friendly digital experiences.
 --
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Frontend & Mobile:** ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,18 +31,18 @@
 
 ---
 
-### 🚀 What I Do
+### What I Do
 - **Full-Stack Development:** Building end-to-end applications with the **MERN stack**, focusing on secure **RESTful APIs** and efficient data modeling.
 - **Mobile Engineering:** Architecting cross-platform applications using **React Native** and **Expo**, integrating services like **Google Maps API**.
 - **User-Centric Design:** Developing visually compelling and responsive interfaces that prioritize accessibility and user experience.
 
-### 📚 What I'm Learning Right Now
-* **🌐 Modern Frontend Evolution:** Mastering the latest **Frontend Web Technologies** to build high-performance, interactive, and visually compelling user interfaces.
-* **⚙️ Backend Mastery:** Advancing my expertise in **Node.js** and **Express** to architect secure, scalable, and resilient server-side systems.
+###  What I'm Learning Right Now
+* **Modern Frontend Evolution:** Mastering the latest **Frontend Web Technologies** to build high-performance, interactive, and visually compelling user interfaces.
+* **Backend Mastery:** Advancing my expertise in **Node.js** and **Express** to architect secure, scalable, and resilient server-side systems.
 
 ---
 
-### 🧰 Developer Tools
+### Developer Tools
 `Git & GitHub` • `Postman` • `VS Code` • `Render` • `Netlify` • `Vercel`
 
 ---
@@ -50,5 +50,5 @@
 ### 📫 Connect with Me
 - **LinkedIn:** [Muqaddas Haideri](https://www.linkedin.com/in/muqaddas-haideri-834382273/)
 - **Email:** [khanmuqaddas667@gmail.com](mailto:khanmuqaddas667@gmail.com)
-- 
+  
 *“Always learning, always building, and always looking for the next challenge.”*
