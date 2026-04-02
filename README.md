@@ -4,9 +4,8 @@
 
 I’m passionate about building seamless and scalable web and mobile applications.  
 I enjoy working with **React, Node.js, and modern technologies** to turn ideas into real-world solutions.
-
-💡 I love solving problems, learning new technologies, and creating user-friendly digital experiences.
----
+I love solving problems, learning new technologies, and creating user-friendly digital experiences.
+--
 
 ### 🛠️ Technical Skills
 
@@ -38,9 +37,8 @@ I enjoy working with **React, Node.js, and modern technologies** to turn ideas i
 - **User-Centric Design:** Developing visually compelling and responsive interfaces that prioritize accessibility and user experience.
 
 ### 📚 What I'm Learning Right Now
-- **Backend Architecture:** Deepening my expertise in scalable server-side systems and advanced **Node.js** patterns.
-- **Cloud & DevOps:** Mastering seamless deployment and hosting workflows using **Vercel**, **Netlify**, and **Render**.
-- **System Design:** Exploring complex data structures and modern web tooling to optimize app performance.
+* **🌐 Modern Frontend Evolution:** Mastering the latest **Frontend Web Technologies** to build high-performance, interactive, and visually compelling user interfaces.
+* **⚙️ Backend Mastery:** Advancing my expertise in **Node.js** and **Express** to architect secure, scalable, and resilient server-side systems.
 
 ---
 
@@ -49,13 +47,8 @@ I enjoy working with **React, Node.js, and modern technologies** to turn ideas i
 
 ---
 
-### 📈 GitHub Ecosystem
-![Muqaddas's Stats](https://github-readme-stats.vercel.app/api?username=MuqaddasHaideri&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Connect with Me
-- **LinkedIn:** (https://www.linkedin.com/in/muqaddas-haideri-834382273/)
-- **Email:** [khanmuqaddas667@gmail.com]
-
+- **LinkedIn:** [Muqaddas Haideri](https://www.linkedin.com/in/muqaddas-haideri-834382273/)
+- **Email:** [khanmuqaddas667@gmail.com](mailto:khanmuqaddas667@gmail.com)
+- 
 *“Always learning, always building, and always looking for the next challenge.”*
