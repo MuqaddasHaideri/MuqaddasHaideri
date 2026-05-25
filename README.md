@@ -7,8 +7,8 @@
 
 <!-- GITHUB STATS BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MuqaddasHaideri&style=flat-square&color=a78bfa&label=profile+views)
-[![Followers](https://img.shields.io/github/followers/MuqaddasHaideri?label=followers&style=flat-square&color=a78bfa&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=followers)
-[![Stars](https://img.shields.io/github/stars/MuqaddasHaideri?label=stars&style=flat-square&color=a78bfa&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/MuqaddasHaideri?style=flat-square&color=a78bfa&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=followers)
+[![Stars](https://img.shields.io/github/stars/MuqaddasHaideri?style=flat-square&color=a78bfa&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=repositories)
 
 </div>
 
