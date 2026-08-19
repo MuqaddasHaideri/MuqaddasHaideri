@@ -114,23 +114,29 @@ I love solving problems, picking up new technologies, and shipping things that a
 
 ---
 
-
 ### ✦ GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuqaddasHaideri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=c4c9d4" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuqaddasHaideri&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4c9d4" />
+
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MuqaddasHaideri&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=ff6d6d&currStreakLabel=a78bfa&sideLabels=a78bfa" />
-</div>
+<br/>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuqaddasHaideri&bg_color=0d0d1a&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&title_color=a78bfa&custom_title=Muqaddas%27s+Contribution+Graph)](https://github.com/MuqaddasHaideri)
+<img src="https://streak-stats.demolab.com?user=MuqaddasHaideri&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=ff6d6d&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c4c9d4" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuqaddasHaideri&bg_color=0d0d1a&color=c4c9d4&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&title_color=a78bfa&custom_title=Muqaddas%27s%20Contribution%20Graph" />
+
+</div>
+
 
 
 <div align="center">
