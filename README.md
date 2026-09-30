@@ -1,14 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muqaddas%20Haideri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%&descAlignY=68&descSize=18&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Muqaddas%20Haideri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=65&descSize=18&descColor=a78bfa)
 
-![Typing](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Currently+building+a+Full-Stack+Mobile+App+;Next+up%3A+diving+deep+into+AI+Integration+;MERN+Stack+%7C+React+Native+%7C+REST+APIs;Turning+ideas+into+real-world+solutions+)
+![Typing](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Currently+building+a+Full-Stack+Mobile+App+📱;Next+up%3A+diving+deep+into+AI+Integration+🤖;MERN+Stack+%7C+React+Native+%7C+REST+APIs;Turning+ideas+into+real-world+solutions+✨)
+
 <br/>
 
-<!-- GITHUB STATS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=MuqaddasHaideri&style=flat-square&color=a78bfa&label=profile+views)
-[![Followers](https://img.shields.io/github/followers/MuqaddasHaideri?style=flat-square&color=a78bfa&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=followers)
-[![Stars](https://img.shields.io/github/stars/MuqaddasHaideri?style=flat-square&color=a78bfa&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=MuqaddasHaideri&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/MuqaddasHaideri?style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=followers)
+[![Stars](https://img.shields.io/github/stars/MuqaddasHaideri?style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/MuqaddasHaideri?tab=repositories)
 
 </div>
 
@@ -56,17 +56,22 @@ I love solving problems, picking up new technologies, and shipping things that a
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **— Languages —**
 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 **— Backend & APIs —**
 
